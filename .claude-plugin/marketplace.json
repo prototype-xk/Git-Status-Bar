@@ -1,0 +1,6 @@
+{
+  "name": "gsb",
+  "owner": { "name": "prototype-xk" },
+  "description": "GSB: a git branch and last-commit pill for the bar above the prompt",
+  "plugins": [{ "name": "gsb", "source": "./" }]
+}

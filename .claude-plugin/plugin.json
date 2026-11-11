@@ -1,0 +1,11 @@
+{
+  "name": "gsb",
+  "version": "0.1.0",
+  "description": "A small pill at the right of the bar above the prompt: your current git branch and the last commit",
+  "author": { "name": "prototype-xk", "url": "https://github.com/prototype-xk" },
+  "homepage": "https://github.com/prototype-xk/Git-Status-Bar",
+  "repository": "https://github.com/prototype-xk/Git-Status-Bar",
+  "license": "MIT",
+  "keywords": ["git", "branch", "status-bar", "desktop"],
+  "types": "./types/index.d.ts"
+}
