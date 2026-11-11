@@ -1,6 +1,6 @@
 # Git Status Bar (GSB)
 
-![GSB: the current branch and the last commit, as a small pill at the right of the bar](docs/preview.svg)
+![GSB: the current branch and the last commit, as a small pill at the right of the bar](docs/screenshot.png)
 
 A mod for the Claude desktop app. It adds a small pill at the right of the bar above the prompt, so you always see where you are in git without asking:
 
